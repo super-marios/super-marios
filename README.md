@@ -1,4 +1,15 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there!&fontSize=90" />
+# Hi there 👋
+### About me
+Hi, My name is Woojin and I'm a frontend developer.
+
+<!-- Tools I use -->
+
+<!-- - 🌱 I’m currently learning ... Everything 
+- 🔭 I’m currently working on ... ? -->
+
+
+
 
 <!--
 **super-marios/super-marios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
