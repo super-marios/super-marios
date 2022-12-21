@@ -8,7 +8,18 @@ Hi, My name is Woojin and I'm a frontend developer.
 
 testing.. testing... 1, 2, 3
 
-<!-- Tools I use -->
+### Tools I used... 🤔
+<p>
+<img style='width:30px;height:30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style='width:30px;height:30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style='width:30px;height:30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style='width:30px;height:30px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
+          
+</p>       
+          
+
+
+          
 
 <!-- - 🌱 I’m currently learning ... Everything 
 - 🔭 I’m currently working on ... ? -->
