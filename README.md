@@ -18,7 +18,12 @@ testing.. testing... 1, 2, 3
 </p>       
           
 
+### My Goals
+1. React... Native?!
+2. Typescript
+3. Svelte..?!
 
+I would also like to learn how to take pictures! 📷
           
 
 <!-- - 🌱 I’m currently learning ... Everything 
