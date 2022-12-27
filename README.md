@@ -25,9 +25,11 @@ testing.. testing... 1, 2, 3
 
 I would also like to learn how to take pictures! 📷
           
+### Currently... 🔭
+I’m currently working on ... Creating a simple app with React Native  
 
-<!-- - 🌱 I’m currently learning ... Everything 
-- 🔭 I’m currently working on ... ? -->
+<!-- - 🌱 I’m currently learning ... Everything -->
+
 
 
 
