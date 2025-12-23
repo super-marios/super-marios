@@ -4,7 +4,8 @@
 
 ### About me
 
-Hi, My name is Woojin and I'm a frontend developer.
+Hi, My name is Woojin and welcome to my playground.
+Frontend Developer turned Technical Writer | Interested in AI & AdTech
 
 testing.. testing... 1, 2, 3
 
@@ -19,14 +20,14 @@ testing.. testing... 1, 2, 3
           
 
 ### My Goals
-1. React... Native?!
-2. Typescript
-3. Svelte..?!
+1. Stay updated with lastest trends
+2. How to use generative AI more effectively
 
-I would also like to learn how to take pictures! 📷
+I would also like to learn how to create better visuals! 📷
           
 ### Currently... 🔭
-I’m currently working on ... Creating a simple app with React Native  
+I’m currently working on ... 
+TBD  
 
 <!-- - 🌱 I’m currently learning ... Everything -->
 
