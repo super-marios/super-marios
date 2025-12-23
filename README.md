@@ -20,8 +20,8 @@ testing.. testing... 1, 2, 3
           
 
 ### My Goals
-1. Stay updated with lastest trends
-2. How to use generative AI more effectively
+1. Keeping up with emerging AI trends
+2. Leveraging Generative AI for efficiency
 
 I would also like to learn how to create better visuals! 📷
           
