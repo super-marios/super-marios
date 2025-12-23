@@ -5,7 +5,7 @@
 ### About me
 
 Hi, My name is Woojin and welcome to my playground.
-Frontend Developer turned Technical Writer | Interested in AI & AdTech
+Former Frontend Developer bridging Code & Content | Interested in AI & AdTech
 
 testing.. testing... 1, 2, 3
 
