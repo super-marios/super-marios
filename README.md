@@ -5,7 +5,7 @@
 ### About me
 
 Hi, My name is Woojin and welcome to my playground.  
-Former Frontend Developer bridging Code & Content | Interested in AI & AdTech
+Former Frontend Developer bridging Code & People | Interested in AI & Trend
 
 testing.. testing... 1, 2, 3
 
@@ -22,6 +22,7 @@ testing.. testing... 1, 2, 3
 ### My Goals
 1. Keeping up with emerging AI trends
 2. Leveraging Generative AI for efficiency
+3. Making things simple
 
 I would also like to learn how to create better visuals! 📷
           
